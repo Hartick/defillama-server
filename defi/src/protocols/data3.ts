@@ -36858,7 +36858,7 @@ const data3: Protocol[] = [
     address: null,
     symbol: "-",
     url: "https://smilee.finance/",
-    description: `On-chain options enabling volatility trading. Creators of the first Impermanent Gain options`,
+    description: `On-chain derivatives for volatility trading. Creators of Impermanent Gain—the first DeFi native convex payoff`,
     chain: "Arbitrum",
     logo: `${baseIconsUrl}/smilee-finance.png`,
     audits: "2",
